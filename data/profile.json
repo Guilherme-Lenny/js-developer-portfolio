@@ -1,0 +1,104 @@
+{
+  "name": "Guilherme Lenny",
+  "photo": "",
+  "job": "Desenvolvedor Fullstack - Embaixador DIO Campus Expert",
+  "location": "Brasília - DF",
+  "phone": "(61) 99316-1600",
+  "email": "Guilherme_Kenay@Outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": ""
+      },
+      {
+        "name": "CSS",
+        "logo": ""
+      },
+      {
+        "name": "JavaScript",
+        "logo": ""
+      },
+      {
+        "name": "Java",
+        "logo": ""
+      },
+      {
+        "name": "Spring Boot",
+        "logo": ""
+      },
+      {
+        "name": "Angular",
+        "logo": ""
+      },
+      {
+        "name": "React",
+        "logo": ""
+      },
+      {
+        "name": "TypeScript",
+        "logo": ""
+      },
+      {
+        "name": "Nodejs",
+        "logo": ""
+      },
+      {
+        "name": "Postgresql",
+        "logo": ""
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (intermediário)", "Espanhol (Básico)"],
+  "portfolio": [
+    {
+      "name": "Clonando o Site da HBO Max com Animações em HTML e CSS",
+      "url": "https://github.com/Guilherme-Lenny/hbomax",
+      "github": true
+    },
+    {
+      "name": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
+      "url": "https://github.com/Guilherme-Lenny/responsive-discord-layout",
+      "github": true
+    },
+    {
+      "name": "Clone do site GTA V",
+      "url": "https://github.com/Guilherme-Lenny/projeto-gta",
+      "github": true
+    },
+    {
+      "name": "Construindo Uma App Simples de Banco Com Typescript",
+      "url": "https://github.com/Guilherme-Lenny/dio-banking",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "DIO Campus Expert - Embaixador DIO Campus Expert",
+      "period": "Março de 2024 - Presente",
+      "description": "Participei de mentorias com profissionais renomados, aprimorando habilidades técnicas e de liderança. Promovi eventos e iniciativas para incentivar o aprendizado e a inovação tecnológica na comunidade acadêmica."
+    },
+    {
+      "name": "Keyne & Advogados Associados - Estagiário",
+      "period": "Janeiro de 2018 - Dezembro de 2018",
+      "description": "Realizei controle de processos, migração de dados, redação de relatórios, prospecção e atendimento ao cliente. Desenvolvi habilidades organizacionais, de comunicação e gestão de tempo, além de obter conhecimento aprofundado do ambiente jurídico."
+    },
+    {
+      "name": "Exército Brasileiro - Soldado de Infantaria",
+      "period": "Janeiro de 2015 - Dezembro de 2015",
+      "description": "Desempenhei atividades administrativas, gestão de almoxarifado, guarda armada e serviços gerais. Desenvolvi capacidade de trabalho, disciplina, eficiência e aptidão para lidar com responsabilidades diversas."
+    },
+    {
+      "name": "Atacadão - Aprendiz",
+      "period": "Fevereiro de 2013 - Janeiro de 2015",
+      "description": "Atuei em gerência, RH, almoxarifado, tesouraria e prevenção de perdas. Desenvolvi adaptabilidade, habilidades de gestão e compreensão de processos internos."
+    }
+  ]
+}
